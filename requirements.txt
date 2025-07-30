@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+torch
+torchvision
+transformers
+deepface
+plotly
+pandas
+numpypython --version
+Pillow
+textblob
+SpeechRecognition
+tensorflow
