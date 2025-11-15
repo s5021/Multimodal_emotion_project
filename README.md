@@ -47,6 +47,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 # OR run the setup script:
 python setup.py
+pip install tf-keras
 ```
 
 ### 4. Run Application

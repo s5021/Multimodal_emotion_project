@@ -2,6 +2,8 @@
 # Includes both real-time camera analysis AND video upload analysis
 
 import cv2
+import torch
+import torchvision
 import numpy as np
 import streamlit as st
 import threading
